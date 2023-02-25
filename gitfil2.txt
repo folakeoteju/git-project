@@ -1,0 +1,7 @@
+List of fruits
+Orange
+banana
+Pineaple
+Guava
+Mango
+
