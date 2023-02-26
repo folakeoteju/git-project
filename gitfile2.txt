@@ -5,3 +5,4 @@ White
 Purple
 Grey
 Brown
+Light
